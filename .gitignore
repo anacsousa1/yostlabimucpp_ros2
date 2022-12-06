@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# ROS2:
+build/
+install/
+log/
+
+# Python:
+__pycache__/
+
+# Visual Studio
+.vscode/
+.vs/
+
+# OpenSim log file
+opensim.log
